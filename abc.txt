@@ -1,0 +1,6 @@
+hello world!
+hello fission
+hello
+hu
+hiiiii
+THis is Ruby
